@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 26373
+/Length 26371
 >>
 stream
 0.5670000000000001 w
@@ -34,21 +34,21 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 724.0159842519684616 Td
-(Estudiante: Harrison Olvany Rengifo Marin) Tj
+(Estudiante: Yeferson  Santamaria Holguin) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: HarrisonRM/act_ntp_s3) Tj
+(Repositorio: yeferlol12/act_ntp_s3) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 21/8/2025, 8:42:21) Tj
+(Fecha de evaluación: 21/8/2025, 8:34:40) Tj
 ET
 BT
 /F1 10 Tf
@@ -69,21 +69,21 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 623.827007874015635 Td
-(Calificación general: 4.7/5.0) Tj
+(Calificación general: 3.9/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 608.1577165354329964 Td
-(Actividades completadas: 20/20) Tj
+(Actividades completadas: 17/20) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 592.4884251968503577 Td
-(Porcentaje de completitud: 100.0%) Tj
+(Porcentaje de completitud: 85.0%) Tj
 ET
 BT
 /F2 12 Tf
@@ -226,7 +226,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 498.6533858267716255 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -681,7 +681,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 364.2533858267715914 Td
-(4.0) Tj
+(2.0) Tj
 ET
 1. g
 0.78 G
@@ -941,7 +941,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 287.4533858267715232 Td
-(3.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -993,7 +993,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 268.2533858267714777 Td
-(Sí) Tj
+(No) Tj
 ET
 1. g
 0.78 G
@@ -1006,7 +1006,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 268.2533858267714777 Td
-(5.0) Tj
+(0.0) Tj
 ET
 1. g
 0.78 G
@@ -1058,7 +1058,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 249.0533858267714322 Td
-(Sí) Tj
+(No) Tj
 ET
 1. g
 0.78 G
@@ -1071,7 +1071,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 249.0533858267714322 Td
-(5.0) Tj
+(0.0) Tj
 ET
 1. g
 0.78 G
@@ -1253,7 +1253,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 191.4533858267714095 Td
-(Sí) Tj
+(No) Tj
 ET
 1. g
 0.78 G
@@ -1266,7 +1266,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 191.4533858267714095 Td
-(4.0) Tj
+(0.0) Tj
 ET
 1. g
 0.78 G
@@ -1461,7 +1461,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 133.8533858267712731 Td
-(5.0) Tj
+(4.0) Tj
 ET
 0. G
 0.5670000000000001 w
@@ -1497,7 +1497,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5680
+/Length 5735
 >>
 stream
 0.5670000000000001 w
@@ -1535,7 +1535,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 706.346692913385823 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -1549,8 +1549,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 675.0081102362204319 Td
-(La solución es correcta, concisa y cumple con los requisitos. El código es legible y utiliza un ciclo for de manera) Tj
-T* (eficiente.) Tj
+(La solución es correcta y funciona como se espera. Se puede mejorar la salida del programa, eliminando el texto 'n) Tj
+T* (=' para cumplir estrictamente con la descripción de la actividad \(imprimir solo los números\).) Tj
 ET
 BT
 /F2 10 Tf
@@ -1593,7 +1593,7 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 549.4884251968503577 Td
-(La solución es correcta, concisa y cumple con todos los requisitos. El código es limpio y fácil de entender.) Tj
+(La solución es correcta, eficiente y cumple con todos los requisitos. El código es limpio y fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1636,14 +1636,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 435.4687401574803971 Td
-(La solución es correcta y eficiente. El código es legible y cumple con el objetivo planteado. Se podría considerar) Tj
-T* (usar nombres de variables más descriptivos.) Tj
+(Solución correcta y eficiente. El código es claro, conciso y cumple con el objetivo del problema. Excelente trabajo.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 399.7955118110237436 Td
+39.6850393700787407 411.2955118110237436 Td
 (Actividad 4: Utilizando un ciclo while, solicita al usuario que ingrese números. El proceso termina cuando) Tj
 T* (el usuario escriba 0. Al final, muestra la suma total de todos los números ingresados.) Tj
 ET
@@ -1651,37 +1650,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 372.6262204724411049 Td
+51.0236220472441033 384.1262204724410481 Td
 (Archivo esperado: src/ejercicio_04.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 356.9569291338584094 Td
+51.0236220472441033 368.4569291338584094 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 341.2876377952757707 Td
+51.0236220472441033 352.7876377952757707 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 325.6183464566930752 Td
+51.0236220472441033 337.1183464566930752 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 309.9490551181104365 Td
-(El código funciona correctamente y resuelve el problema planteado. Sin embargo, la suma del último número \(0\) se) Tj
-T* (incluye en el total. Considera restarlo o usar una estructura `if` dentro del ciclo para evitar esto.) Tj
+62.3622047244094517 321.4490551181104365 Td
+(La solución funciona correctamente y cumple con los requisitos. Considera usar `int\(\)` en lugar de `float\(\)` si la) Tj
+T* (actividad se enfoca en números enteros y añadir validación de entrada para evitar errores si el usuario ingresa) Tj
+T* (datos no numéricos.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1724,13 +1724,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 184.4293700787404759 Td
-(La solución es correcta, clara y eficiente. El código es legible y cumple con el objetivo de la actividad.) Tj
+(Excelente solución. El código es claro, conciso y cumple con el objetivo de la actividad, utilizando un ciclo for de) Tj
+T* (manera eficiente para imprimir la tabla del 7.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 160.2561417322838224 Td
+39.6850393700787407 148.7561417322838224 Td
 (Actividad 6: Mediante un ciclo while, genera y muestra los primeros 15 múltiplos de 3, comenzando desde) Tj
 T* (3.) Tj
 ET
@@ -1738,38 +1739,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 133.0868503937011837 Td
+51.0236220472441033 121.5868503937011837 Td
 (Archivo esperado: src/ejercicio_06.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 117.4175590551185451 Td
+51.0236220472441033 105.9175590551184314 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 101.7482677165357927 Td
+51.0236220472441033 90.2482677165357927 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 86.078976377953154 Td
+51.0236220472441033 74.578976377953154 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 70.4096850393705154 Td
-(La solución cumple con el objetivo, pero el bucle `while contador <= 18` podría mejorarse para calcular) Tj
-T* (directamente los 15 múltiplos, en lugar de depender de un límite fijo. Además, la variable `multiplo` no es) Tj
-T* (necesaria, se podría imprimir directamente el resultado de la multiplicación.) Tj
+62.3622047244094517 58.9096850393704017 Td
+(El código resuelve el problema, pero el valor del contador \(48\) no es intuitivo para generar 15 múltiplos de 3. ) Tj
+T* (Considera usar un contador explícito para el número de múltiplos generados para mayor claridad.) Tj
 ET
 BT
 /F1 8 Tf
@@ -1797,7 +1797,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5516
+/Length 5362
 >>
 stream
 0.5670000000000001 w
@@ -1843,8 +1843,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(Solución correcta y eficiente. El código es legible y cumple con el objetivo planteado utilizando un ciclo for y un) Tj
-T* (condicional de manera adecuada.) Tj
+(La solución es correcta y concisa. El código es legible y cumple con los requisitos de la actividad. ¡Excelente) Tj
+T* (trabajo!) Tj
 ET
 BT
 /F2 10 Tf
@@ -1873,7 +1873,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 601.1695275590551546 Td
-(Calificación: 4.0/5.0) Tj
+(Calificación: 2.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -1887,8 +1887,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(La solución es correcta y funcional, calcula los cuadrados del 1 al 20. Sin embargo, la descripción pedía usar un) Tj
-T* (ciclo 'while' y se utilizó un ciclo 'for'. Se recomienda utilizar 'while' como se indicó en la descripción.) Tj
+(El código calcula múltiplos de 2 en lugar de cuadrados. La variable 'multiplo' debería ser 'numero * numero' para) Tj
+T* (calcular el cuadrado correctamente.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1931,7 +1931,7 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 444.3112598425197461 Td
-(La solución es correcta, eficiente y cumple con todos los requisitos. El código es limpio y fácil de entender.) Tj
+(La solución es correcta y eficiente. El código es legible y cumple con el objetivo planteado. ¡Buen trabajo!) Tj
 ET
 BT
 /F2 10 Tf
@@ -1974,8 +1974,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 330.2915748031497856 Td
-(La solución es correcta y cumple con todos los requisitos. El código es limpio, fácil de entender y utiliza buenas) Tj
-T* (prácticas. Excelente trabajo.) Tj
+(La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con todos los requisitos del) Tj
+T* (ejercicio.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2017,7 +2017,7 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 216.2718897637797681 Td
-(La solución es correcta, concisa y cumple con todos los requisitos. El código es legible y fácil de entender.) Tj
+(La solución es correcta, concisa y cumple con el objetivo. El código es limpio y fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2046,7 +2046,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 133.5907874015751986 Td
-(Calificación: 3.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2060,8 +2060,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 102.2522047244098076 Td
-(El código está incompleto, falta el ciclo `while` para realizar el cálculo del factorial. Debes agregar el ciclo que itere) Tj
-T* (y multiplique para obtener el resultado final.) Tj
+(La solución es correcta y funcional. El código es legible y sigue las buenas prácticas para calcular el factorial) Tj
+T* (utilizando un bucle `while`.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2089,7 +2089,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 5743
+/Length 5739
 >>
 stream
 0.5670000000000001 w
@@ -2114,14 +2114,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 742.3585039370078675 Td
-(Estado: Archivo encontrado) Tj
+(Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 726.6892125984252289 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2135,13 +2135,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(Solución correcta y eficiente. El código es conciso y cumple con el requerimiento sin problemas.) Tj
+(Error al evaluar: got status: 503 . {"error":{"code":503,"message":"The model is overloaded. Please try again) Tj
+T* (later.","status":"UNAVAILABLE"}}) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 671.1774015748030706 Td
+39.6850393700787407 659.6774015748030706 Td
 (Actividad 14: Mediante un ciclo while, implementa un juego de adivinanza: el programa genera un número) Tj
 T* (aleatorio del 1 al 10 y solicita al usuario que lo adivine. El proceso se repite hasta que el usuario acierte.) Tj
 T* (Muestra un mensaje de felicitación al final.) Tj
@@ -2150,85 +2151,86 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 632.5081102362204319 Td
+51.0236220472441033 621.0081102362204319 Td
 (Archivo esperado: src/ejercicio_14.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 616.8388188976377933 Td
-(Estado: Archivo encontrado) Tj
+51.0236220472441033 605.3388188976377933 Td
+(Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 601.1695275590551546 Td
-(Calificación: 5.0/5.0) Tj
+51.0236220472441033 589.6695275590551546 Td
+(Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 585.5002362204725159 Td
+51.0236220472441033 574.0002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 569.8309448818897636 Td
-(Excelente solución. El código es claro, funcional y sigue las buenas prácticas. La lógica del juego de adivinanzas) Tj
-T* (está bien implementada y funciona correctamente.) Tj
+62.3622047244094517 558.3309448818897636 Td
+(Error al evaluar: got status: 503 . {"error":{"code":503,"message":"The model is overloaded. Please try again) Tj
+T* (later.","status":"UNAVAILABLE"}}) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 534.15771653543311 Td
+39.6850393700787407 522.65771653543311 Td
 (Actividad 15: Con un ciclo for, imprime un triángulo rectángulo de 5 filas usando el carácter '*'.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 518.4884251968503577 Td
+51.0236220472441033 506.9884251968504145 Td
 (Archivo esperado: src/ejercicio_15.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 502.8191338582677758 Td
+51.0236220472441033 491.3191338582677758 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 487.1498425196850803 Td
+51.0236220472441033 475.6498425196850803 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 471.4805511811023848 Td
+51.0236220472441033 459.9805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 455.8112598425197461 Td
-(La solución es correcta, concisa y cumple con el objetivo. El código es limpio y fácil de entender.) Tj
+62.3622047244094517 444.3112598425197461 Td
+(La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con todos los requisitos de la) Tj
+T* (actividad.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 431.6380314960630926 Td
+39.6850393700787407 408.6380314960630926 Td
 (Actividad 16: Utilizando un ciclo while, simula un reloj digital que muestre cada segundo desde 00:00 hasta) Tj
 T* (00:59 en formato MM:SS, cada valor en una línea.) Tj
 ET
@@ -2236,43 +2238,44 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 404.4687401574803971 Td
+51.0236220472441033 381.4687401574804539 Td
 (Archivo esperado: src/ejercicio_16.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 388.7994488188977584 Td
+51.0236220472441033 365.7994488188977584 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 373.1301574803151198 Td
+51.0236220472441033 350.1301574803151198 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 357.4608661417324242 Td
+51.0236220472441033 334.4608661417324811 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 341.7915748031497856 Td
-(La solución funciona correctamente y cumple con los requisitos. Sin embargo, la descripción solicitaba un ciclo) Tj
-T* (`while`, mientras que se utilizaron ciclos `for`. Considera usar `while` para ajustarte completamente a la consigna.) Tj
+62.3622047244094517 318.7915748031498424 Td
+(La solución es funcional y produce el resultado esperado. Sin embargo, solo itera hasta 00:59. Para simular un reloj) Tj
+T* (completo que empiece en 00:00 y termine en 00:59 se requeriría un bucle externo para controlar los minutos, y un) Tj
+T* (bucle interno para los segundos.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 306.1183464566930752 Td
+39.6850393700787407 271.6183464566931889 Td
 (Actividad 17: Con un ciclo for, solicita al usuario que ingrese un número entero positivo y calcula la suma) Tj
 T* (de sus dígitos, mostrando el resultado final.) Tj
 ET
@@ -2280,43 +2283,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 278.9490551181104365 Td
+51.0236220472441033 244.4490551181104365 Td
 (Archivo esperado: src/ejercicio_17.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 263.2797637795277979 Td
-(Estado: Archivo encontrado) Tj
+51.0236220472441033 228.7797637795277979 Td
+(Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 247.6104724409451592 Td
-(Calificación: 4.0/5.0) Tj
+51.0236220472441033 213.1104724409451592 Td
+(Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 231.9411811023625205 Td
+51.0236220472441033 197.4411811023625205 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 216.2718897637797681 Td
-(La solución es correcta y funcional, pero usa un ciclo `while` en lugar de un ciclo `for` como se solicitaba.) Tj
-T* (Considera implementar la solución con un ciclo `for` para ajustarse completamente a los requerimientos.) Tj
+62.3622047244094517 181.7718897637798818 Td
+(Error al evaluar: got status: 503 . {"error":{"code":503,"message":"The model is overloaded. Please try again) Tj
+T* (later.","status":"UNAVAILABLE"}}) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 180.5986614173231146 Td
+39.6850393700787407 146.0986614173232283 Td
 (Actividad 18: Mediante un ciclo while, genera y muestra la secuencia de Fibonacci empezando por 1, 1, 2,) Tj
 T* (3, 5, … y termina cuando se alcance el primer valor mayor que 1000.) Tj
 ET
@@ -2324,37 +2327,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 153.4293700787404759 Td
+51.0236220472441033 118.9293700787404759 Td
 (Archivo esperado: src/ejercicio_18.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 137.7600787401578373 Td
+51.0236220472441033 103.2600787401578373 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 122.0907874015751986 Td
+51.0236220472441033 87.5907874015750849 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 106.4214960629925599 Td
+51.0236220472441033 71.9214960629924462 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 90.7522047244098076 Td
-(La solución es correcta y eficiente, generando la secuencia de Fibonacci hasta el valor indicado. El uso de) Tj
-T* (`time.sleep` es un buen detalle para la visualización gradual de los resultados.) Tj
+62.3622047244094517 56.2522047244098076 Td
+(La solución es correcta y eficiente. El código es legible y cumple con los requisitos del problema de Fibonacci hasta) Tj
+T* (el valor límite.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2382,7 +2385,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 2680
+/Length 2854
 >>
 stream
 0.5670000000000001 w
@@ -2428,14 +2431,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(Excelente solución. El código es limpio, legible y cumple correctamente con los requisitos del ejercicio. Uso) Tj
-T* (adecuado de `lower\(\)` y la lógica del ciclo for es impecable.) Tj
+(La solución es correcta y eficiente. El código es legible y cumple con el objetivo planteado sin problemas.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 659.6774015748030706 Td
+39.6850393700787407 671.1774015748030706 Td
 (Actividad 20: Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso) Tj
 T* (termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.) Tj
 ET
@@ -2443,66 +2445,73 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 632.5081102362204319 Td
+51.0236220472441033 644.0081102362204319 Td
 (Archivo esperado: src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 616.8388188976377933 Td
+51.0236220472441033 628.3388188976377933 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 601.1695275590551546 Td
-(Calificación: 5.0/5.0) Tj
+51.0236220472441033 612.6695275590550409 Td
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 585.5002362204725159 Td
+51.0236220472441033 597.0002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 569.8309448818897636 Td
-(La solución es correcta, clara y concisa. El código es legible y cumple con los requisitos de la actividad. Buen) Tj
-T* (trabajo.) Tj
+62.3622047244094517 581.3309448818897636 Td
+(La solución es correcta y funcional. Se podría mejorar la validación de la entrada para asegurarse de que el usuario) Tj
+T* (ingresa un número y manejar posibles errores al convertir la entrada a entero.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 534.15771653543311 Td
+39.6850393700787407 545.65771653543311 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 510.819133858267719 Td
-(Excelente trabajo. Completó 20/20 actividades \(100%\) con una calificación promedio de 4.7/5. Demuestra buen) Tj
-T* (dominio de los conceptos.) Tj
+39.6850393700787407 522.319133858267719 Td
+(Buen trabajo general. Completó 17/20 actividades \(85%\) con una calificación promedio de 3.9/5. Hay) Tj
+T* (oportunidades de mejora en algunos aspectos.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 469.4766141732283131 Td
+39.6850393700787407 480.9766141732283131 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 446.1380314960629789 Td
-(• Continuar con el excelente trabajo y mantener la calidad del código) Tj
+51.0236220472441033 457.6380314960629789 Td
+(• Completar los archivos faltantes: src/ejercicio_13.py, src/ejercicio_14.py, src/ejercicio_17.py) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 441.9687401574803403 Td
+(• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
 /F1 8 Tf
@@ -2690,7 +2699,7 @@ endobj
 27 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250821084221-05'00')
+/CreationDate (D:20250821083440-05'00')
 >>
 endobj
 28 0 obj
@@ -2704,41 +2713,41 @@ endobj
 xref
 0 29
 0000000000 65535 f 
-0000046958 00000 n 
-0000048805 00000 n 
+0000047027 00000 n 
+0000048874 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000026578 00000 n 
-0000026715 00000 n 
-0000032447 00000 n 
-0000032584 00000 n 
-0000038152 00000 n 
-0000038290 00000 n 
-0000044086 00000 n 
-0000044225 00000 n 
-0000047040 00000 n 
-0000047166 00000 n 
-0000047297 00000 n 
-0000047431 00000 n 
-0000047569 00000 n 
-0000047693 00000 n 
-0000047822 00000 n 
-0000047954 00000 n 
-0000048090 00000 n 
-0000048218 00000 n 
-0000048345 00000 n 
-0000048474 00000 n 
-0000048607 00000 n 
-0000048709 00000 n 
-0000049058 00000 n 
-0000049144 00000 n 
+0000026576 00000 n 
+0000026713 00000 n 
+0000032500 00000 n 
+0000032637 00000 n 
+0000038051 00000 n 
+0000038189 00000 n 
+0000043981 00000 n 
+0000044120 00000 n 
+0000047109 00000 n 
+0000047235 00000 n 
+0000047366 00000 n 
+0000047500 00000 n 
+0000047638 00000 n 
+0000047762 00000 n 
+0000047891 00000 n 
+0000048023 00000 n 
+0000048159 00000 n 
+0000048287 00000 n 
+0000048414 00000 n 
+0000048543 00000 n 
+0000048676 00000 n 
+0000048778 00000 n 
+0000049127 00000 n 
+0000049213 00000 n 
 trailer
 <<
 /Size 29
 /Root 28 0 R
 /Info 27 0 R
-/ID [ <FCC3DD27557CD56CAB61C34ADF5C149A> <FCC3DD27557CD56CAB61C34ADF5C149A> ]
+/ID [ <4B9A4496923D7445D50FA0C37E031E2E> <4B9A4496923D7445D50FA0C37E031E2E> ]
 >>
 startxref
-49248
+49317
 %%EOF
